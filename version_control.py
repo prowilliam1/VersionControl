@@ -1,2 +1,3 @@
-#version 1
-print("Hello, World")
+#version 2
+name = input("Enter your name: ")
+print(f"Hello, {name}")
